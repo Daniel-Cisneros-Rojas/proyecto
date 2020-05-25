@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/05/2020, 07:48:26 PM
+    Author     : ASTRO
+*/
+
+body{
+    width:700px;
+    margin: auto;
+    background-color: wheat;
+    border: dotted;
+}
+head{
+    background-color: gold;
+}
+
+nav li{
+    display:inline-block;
+    padding:5px;
+}
+a{
+    
+    background-color: gold;
+    color: black;
+}
+p{
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+p2 img{
+    float: left;
+    width:300px;
+}
+h1{
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: gold;
+    color: black;
+}
+p2{
+    display:inline-block;
+}
+.menuSuperior{font-size:  x-large}
+
+p3,p4{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.form-register{
+    width: 400px;
+    background: darkslateblue;
+    padding: 30px;
+    margin-:auto;
+    margin-top:100px;
+    border-radius: 4px;
+    font-family:'calibri';
+}
